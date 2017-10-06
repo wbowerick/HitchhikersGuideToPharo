@@ -2,7 +2,7 @@
 
 ### About this book
 
-* [Foreword](foreword.md)
+* [Foreword](FOREWORD.md)
 
 ### Getting started
 
