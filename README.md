@@ -1,6 +1,8 @@
 # Hitchhikers Guide To Pharo
 
-The Hitchhikers Guide to Pharo
+## Introduction
 
-Initial commit
+### What is Pharo and why should you learn about it
+
+
 
