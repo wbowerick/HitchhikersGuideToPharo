@@ -8,5 +8,7 @@ If you look up into the night sky you might feel very small. There is an infinit
 * Why did the chicken cross the road?  
 * Is Schroedingers cat its own witness?  
 
-Even when this book is called a guide reading it does not necessarily mean it can give you all the answers \(who would be 42 anyway\). So why should you read this book then?
+Even when this book is called a guide reading it does not necessarily mean it can give you all the answers \(who would be 42 anyway\). But this book can give a helping hand into the world of computing down from the simplest axioms up to higher levels of expressions.
+
+
 
