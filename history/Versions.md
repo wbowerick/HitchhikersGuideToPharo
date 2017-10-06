@@ -12,7 +12,7 @@
 
 ## Pharo 6
 
-## Pharo 7
+## Pharo 7 alpha
 
 
 
