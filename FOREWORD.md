@@ -1,6 +1,4 @@
 # Foreword
 
-
-
-The answer is 42
+You can look up into the night sky and you might feel very small. 
 
