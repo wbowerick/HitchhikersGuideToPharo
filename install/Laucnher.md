@@ -1,0 +1,6 @@
+PharoLauncher
+
+
+
+Transcript show: 'HelloWorld'
+
