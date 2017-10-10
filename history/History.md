@@ -1,3 +1,4 @@
+ 
 # The history of Pharo
 
 Pharo originally started in **May 2008** as a fork of the **Squeak** Open Source Smalltalk system. It started as a fork of the Squeak image formed by a group of developers that wanted to go a different route than other parts of the community. 
@@ -90,6 +91,8 @@ But even before and after Pharo the were other forks of Squeak available (like E
 Even with all these forks Squeak itself is still alive and well with a reduced but active community having provided several releases in the last years too. For sure it will not happen to get all these different interests under one umbrella again.
 
 But a very essential step for a common and stable coexistence was the unification on the VM layer with the [**"OpenSmalltalk VM"**](https://github.com/OpenSmalltalk) initiative to reunite VM code forks and provide a common cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
-
+=======
+# The History of Pharo
+ 
 
 

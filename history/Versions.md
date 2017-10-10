@@ -1,5 +1,6 @@
 # Pharo Versions
 
+ 
 ## Pharo 0.1 
 
 Pharo started with a fat Squeak image - throwing out packages like Speech support, Flash, and others that were either unmaintained or loadable afterwards as an external package. This had the positive effect of reducing the size of the fat image file drastically.
@@ -39,4 +40,8 @@ http://pharo.gforge.inria.fr/updates/
 
 ## Pharo 6.0
 
-## Pharo 7.0
+## Pharo 7.0alpha
+ 
+
+
+ 
